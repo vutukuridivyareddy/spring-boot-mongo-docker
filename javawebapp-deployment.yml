@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: divyadocker12345/java-web-app:9
+      - image: divyadocker12345/java-web-app:10
         name: javawebapp
         ports:
         - name: javawebapp
